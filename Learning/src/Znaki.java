@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Znaki
 {
-//    FileWriter plik = new FileWriter("nazwa_pliku.txt");//zapisanie pliku
+   //    FileWriter plik = new FileWriter("nazwa_pliku.txt");//zapisanie pliku
 //        plik.write("Ala ma kota, a kot ma Alę");//zapis w pliku
 //        plik.close();
 //        File file=new File ("nazwa_pliku.txt");//odczyt z pliku
@@ -11,6 +11,13 @@ public class Znaki
 //        String zdanie = in.nextLine();
 //        System.out.println(zdanie);
 //        file.delete();//usuwa pik
+//        while(scanner.hasNextLine())
+//         {
+//              System.out.println(scanner.nextLine());
+//          }
+//         Writer output = new BufferedWriter(new FileWriter("damian.txt", true));
+//        output.append("jakiś tekst");
+//        output.close();
 
     public String liczznaki(String zawartosc) throws IOException
     {
